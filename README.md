@@ -40,6 +40,6 @@
 
 ###
 
-<img width="1000" src="workflows/snake.yml" alt="Snake animation" />
+<img src="workflows/snake.svg" alt="Snake animation" />
 
 ###
