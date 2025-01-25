@@ -1,6 +1,6 @@
 <br clear="both">
 KIDUS YOSEF
-<p align="center">About Me<br>Hello! My name is Kidus Yosef, and I am a passionate beginner in the world of software development. I am excited to embark on this journey of learning and growth in the tech industry. <br>As a beginner, I am working on various small projects to hone my skills and gain practical experience. <br>My Interests<br><br>Web Development(Trying to be a full stack developer), Data Structures and Algorithms, Problem Solving, and continuous learning.</p>
+<p align="center">About Me<br> I am a passionate intermediate learner in software development, eager to grow and hone my skills. Excited about my journey in the tech industry, I am working on various projects to gain practical experience. <br>My Interests<br><br>Web Development (aspiring to be a full stack developer), Data Structures and Algorithms, and continuous learning.</p>
 
 ###
 
