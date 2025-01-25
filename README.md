@@ -40,6 +40,8 @@
 
 ###
 
-<img src="workflows/snake.svg" alt="Snake animation" />
+<p align="center">
+ <img width="1000" src="workflows/github-snake.svg" alt="snake"/>
+</p>
 
 ###
