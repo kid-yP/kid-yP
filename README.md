@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kid/kid/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kid-yP/kid-yP/output/snake.svg" alt="Snake animation" />
 
 ###
