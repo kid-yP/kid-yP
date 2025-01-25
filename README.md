@@ -1,5 +1,5 @@
 <br clear="both">
-KIDUS YOSEF
+                 KIDUS YOSEF
 <p align="center">About Me<br> I am a passionate intermediate learner in software development, eager to grow and hone my skills. Excited about my journey in the tech industry, I am working on various projects to gain practical experience. <br>My Interests<br>Web Development (aspiring to be a full stack developer), Data Structures and Algorithms, and continuous learning.</p>
 
 ###
