@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <br clear="both">
 
 <p align="center">About Me<br><br>Hello! My name is Kidus Yosef, and I am a passionate beginner in the world of software development. I am excited to embark on this journey of learning and growth in the tech industry. <br>As a beginner, I am working on various small projects to hone my skills and gain practical experience. <br><br>My Interests<br><br>Web Development, Data Structures and Algorithms, Problem Solving, and continuous learning.</p>
@@ -45,9 +43,3 @@
 <img src="https://raw.githubusercontent.com/kid/kid/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
