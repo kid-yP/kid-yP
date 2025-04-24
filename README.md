@@ -1,6 +1,20 @@
 <br clear="both">
-                 KIDUS YOSEF
-<p align="center">About Me<br> I am a passionate intermediate learner in software development, eager to grow and hone my skills. Excited about my journey in the tech industry, I am working on various projects to gain practical experience. <br>My Interests<br>Web Development (aspiring to be a full stack developer), Data Structures and Algorithms, and continuous learning.</p>
+
+<h2 align="center">Hello, I'm Kidus Yosef</h2>
+
+###
+
+<br clear="both">
+
+<h4 align="left">Software Developer | Web Developer | UI/UX Designer<br><br>I'm a full-stack web developer with experience in both front-end and back-end technologies, dedicated to crafting scalable, well-structured applications that enhance user experience and performance.</h4>
+
+###
+
+<h4 align="left">🌟 Skills & Technologies:<br>Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... <br>Backend: Django (Python), PHP, Laravel ...<br>Database: MySQL, Firebase, MongoDB  ...<br>Mobile Development: Flutter (Dart), Android studio ...<br>Tools: VS Code, Figma, Git, Vite, ...<br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h4>
+
+###
+
+<h2 align="left">💻 Languages and Tools:</h2>
 
 ###
 
@@ -23,25 +37,50 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="15" />
- <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-</div> -->
-
-###
-
-<div align="left">
-  <a href="@Butchu1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
 ###
 
-<p align="center">
- <img width="1000" src="workflows/github-snake.svg" alt="snake"/>
-</p>
+<h2 align="left">🌐 Socials:</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="@Butchu1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kid-yP/kid-yP/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kid-yP/kid-yP/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kid-yP/kid-yP/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
