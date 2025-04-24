@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h2 align="center">Hello, I'm Kidus Yosef</h2>
 
 ###
@@ -10,7 +9,14 @@
 
 ###
 
-<h4 align="left">🌟 Skills & Technologies:<br>Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... <br>Backend: Django (Python), PHP, Laravel ...<br>Database: MySQL, Firebase, MongoDB  ...<br>Mobile Development: Flutter (Dart), Android studio ...<br>Tools: VS Code, Figma, Git, Vite, ...<br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h4>
+<h4 align="left">🌟 Skills & Technologies:
+  <br>Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... 
+  
+  <br>Backend: Django (Python), PHP, Laravel ...<br>Database: MySQL, Firebase, MongoDB  ...
+  
+  <br>Mobile Development: Flutter (Dart), Android studio ...<br>Tools: VS Code, Figma, Git, Vite, ...
+  
+  <br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h4>
 
 ###
 
