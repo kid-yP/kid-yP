@@ -1,22 +1,16 @@
 <br clear="both">
+
 <h2 align="center">Hello, I'm Kidus Yosef</h2>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Software Developer | Web Developer | UI/UX Designer<br><br>I'm a full-stack web developer with experience in both front-end and back-end technologies, dedicated to crafting scalable, well-structured applications that enhance user experience and performance.</h4>
+<h3 align="left">Software Developer | Web Developer | UI/UX Designer<br><br>I'm a full-stack web developer with experience in both front-end and back-end technologies, dedicated to crafting scalable, well-structured applications that enhance user experience and performance.</h3>
 
 ###
 
-<h4 align="left">🌟 Skills & Technologies:
-  <br>Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... 
-  
-  <br>Backend: Django (Python), PHP, Laravel ...<br>Database: MySQL, Firebase, MongoDB  ...
-  
-  <br>Mobile Development: Flutter (Dart), Android studio ...<br>Tools: VS Code, Figma, Git, Vite, ...
-  
-  <br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h4>
+<h3 align="left">🌟 Skills & Technologies:<br><br>Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... <br><br>Backend: Django (Python), PHP, Laravel ...<br><br>Database: MySQL, Firebase, MongoDB  ...<br><br>Mobile Development: Flutter (Dart), Android studio ...<br><br>Tools: VS Code, Figma, Git, Vite, ...<br><br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h3>
 
 ###
 
