@@ -1,10 +1,7 @@
-<br clear="both">
-
 <h2 align="center">👋Hello, I'm Kidus Yosef</h2>
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kid-yP.kid-yP&"  />
@@ -19,19 +16,27 @@
 
 ###
 
+<br clear="both">
+
 <picture>
     <img alt="pacman contribution graph" src="workflows/pacman.svg">
 </picture>
 
 ###
 
+<br clear="both">
+
 <h3 align="center">🌟 Skills & Technologies:</h3>
 
 ###
 
+<br clear="both">
+
 <h5 align="left">Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... <br><br>Backend: Django (Python), PHP, Laravel ...<br><br>Database: MySQL, Firebase, MongoDB  ...<br><br>Mobile Development: Flutter (Dart), Android studio ...<br><br>Tools: VS Code, Figma, Git, Vite, ...<br><br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h5>
 
 ###
+
+<br clear="both">
 
 <h3 align="center">💻 Languages and Tools:</h3>
 
@@ -81,6 +86,7 @@
 
 ###
 
+<br clear="both">
 <h3 align="center">🌐 Socials:</h3>
 
 ###
@@ -99,21 +105,31 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="center">🏆CERTIFICATION AND AWARDS</h3>
 
 ###
+
+<br clear="both">
 
 <p align="left">-Certificate of Completion: Successfully completed the Front-End Development track, UI/UX and Professional Development Skills at ALX.<br><br>-Certificate of Completion: Successfully completed both the Django and Flutter tracks, including a capstone project, at GDSC AASTU.<br><br>-Certificate of Achievement: Ranked among the Top 5 projects in the hackathon organized by Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University.<br><br>-Certificate of Participation: Recognized for active involvement in the hackathon organized by GDSC AASTU.<br><br>-Certificate of Completion: Python certification from HackerRank.</p>
 
 ###
 
+<br clear="both">
+
 <h3 align="center">🚀Some Projects</h3>
 
 ###
 
+<br clear="both">
+
 <p align="left">🌐Web Development:                         <br><br>K-I-D-I-F-Y:  A music player app built with React and Tailwind CSS, integrating the Deezer API for music search and playback.<br><br>E-Commerce Website: A fully functional e-commerce platform developed using Django, HTML, and CSS.<br><br>Library Management System: Designed with Django, enabling efficient book tracking and management.<br><br>Game Portfolio Website: Developed using React, showcasing interactive game projects.                      <br> <br>     🏆Hackathon & Collaborative Projects<br><br>Tutoring Website: A full-stack tutoring platform created during a hackathon, covering both front-end and back-end development.<br><br>TibebNet: A social learning platform built with Flutter, designed for collaborative education and resource sharing.<br><br>📱Mobile & Cross-Platform Development<br><br>E-Commerce Clothing Store App: A mobile shopping application for an enhanced online shopping experience..<br> <br>💻Additional Software Projects<br><br>PHP Projects: Various applications leveraging PHP for server-side functionalities.<br><br>Java Pojects: - Hospital Management System: A comprehensive healthcare system for managing patient records and hospital operations.<br><br>C++ Projects:<br><br>Patient Information System: A tool for storing and managing patient data.<br><br>Test Maker: A C++ application for creating and organizing tests and quizzes.</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kid-yP&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
