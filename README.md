@@ -1,14 +1,15 @@
 <br clear="both">
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kid-yP.kid-yP&"  />
-</div>
+<h2 align="center">👋Hello, I'm Kidus Yosef</h2>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">👋Hello, I'm Kidus Yosef</h2>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kid-yP.kid-yP&"  />
+</div>
+
 
 ###
 
