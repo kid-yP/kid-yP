@@ -1,9 +1,11 @@
 <h2 align="center">👋Hello, I'm Kidus Yosef</h2>
 
 ###
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kid-yP.kid-yP&"  />
 </div>
+
 ###
 
 <h4 align="center">Software Developer | Web Developer | UI/UX Designer<br><br>I'm a full-stack web developer with experience in both front-end and back-end technologies, dedicated to crafting scalable, well-structured applications that enhance user experience and performance.</h4>
