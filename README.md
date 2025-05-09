@@ -113,18 +113,6 @@
 
 <br clear="both">
 
-<h3 align="center">🚀Some Projects</h3>
-
-###
-
-<br clear="both">
-
-<p align="left">🌐Web Development:                         <br><br>K-I-D-I-F-Y:  A music player app built with React and Tailwind CSS, integrating the Deezer API for music search and playback.<br><br>E-Commerce Website: A fully functional e-commerce platform developed using Django, HTML, and CSS.<br><br>Library Management System: Designed with Django, enabling efficient book tracking and management.<br><br>Game Portfolio Website: Developed using React, showcasing interactive game projects.                      <br> <br>     🏆Hackathon & Collaborative Projects<br><br>Tutoring Website: A full-stack tutoring platform created during a hackathon, covering both front-end and back-end development.<br><br>TibebNet: A social learning platform built with Flutter, designed for collaborative education and resource sharing.<br><br>📱Mobile & Cross-Platform Development<br><br>E-Commerce Clothing Store App: A mobile shopping application for an enhanced online shopping experience..<br> <br>💻Additional Software Projects<br><br>PHP Projects: Various applications leveraging PHP for server-side functionalities.<br><br>Java Pojects: - Hospital Management System: A comprehensive healthcare system for managing patient records and hospital operations.<br><br>C++ Projects:<br><br>Patient Information System: A tool for storing and managing patient data.<br><br>Test Maker: A C++ application for creating and organizing tests and quizzes.</p>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kid-yP&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kid-yP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
