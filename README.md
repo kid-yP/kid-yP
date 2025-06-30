@@ -107,7 +107,9 @@
 
 <br clear="both">
 
-<p align="left">-Certificate of Completion: Successfully completed the Front-End Development track, UI/UX and Professional Development Skills at ALX.<br><br>-Certificate of Completion: Successfully completed both the Django and Flutter tracks, including a capstone project, at GDSC AASTU.<br><br>-Certificate of Achievement: Ranked among the Top 5 projects in the hackathon organized by Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University.<br><br>-Certificate of Participation: Recognized for active involvement in the hackathon organized by GDSC AASTU.<br><br>-Certificate of Completion: Python certification from HackerRank.</p>
+<p align="left">-Certificate of Completion: Successfully completed the Front-End Development track, UI/UX and Professional Development Skills at ALX.<br><br>-Certificate of Completion: Successfully completed both the Django and Flutter tracks, including a capstone project, at GDSC AASTU.<br><br>-Certificate of Achievement: Ranked among the Top 5 projects in the hackathon organized by Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University.<br><br>- Certificate of Participation: Recognized for active involvement in the hackathon organized by GDSC AASTU.<br>
+In recognition of your participation in the AASTU TECH FEST 2025 Hackathon, your involvement showcased innovation and competitive spirit.<br>
+<br>-Certificate of Completion: Python certification from HackerRank.</p>
 
 ###
 
