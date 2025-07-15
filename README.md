@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h5 align="left">Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... <br><br>Backend: Django (Python), PHP, Laravel ...<br><br>Database: MySQL, Firebase, MongoDB  ...<br><br>Mobile Development: Flutter (Dart), Android studio ...<br><br>Tools: VS Code, Figma, Git, Vite, ...<br><br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h5>
+<h5 align="left">Frontend: ReactJS (HTML, CSS, JavaScript), Tailwind CSS, Zustand ... <br><br>Backend: Django (Python), PHP, Laravel ...<br><br>Database: MySQL, Firebase, MongoDB  ...<br><br>Mobile Development: React Native(Expo), Flutter (Dart), Android studio ...<br><br>Tools: VS Code, Figma, Git, Vite, ...<br><br>Interests: UI/UX design, Data Structure and Algorithm, and continuous learning ...</h5>
 
 ###
 
