@@ -12,8 +12,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="center">Software Developer | Web Developer | UI/UX Designer<br><br>Full-stack developer with experience in frontend, backend, and mobile development — focused on building scalable applications with intuitive user experiences.</h4>
 
 
