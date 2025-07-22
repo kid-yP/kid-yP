@@ -125,18 +125,10 @@
 
 <br clear="both">
 
-<p align="left">🏅 Certifications & Achievements<br><br>📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills at ALX.<br><br>🧰 Certificate of Completion  <br>Completed both the Django and Flutter tracks — including a capstone and active participation in a hackathon — organized by GDSC AASTU.<br><br>🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the AASTU TECH FEST 2025 Hackathon.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
+<p align="left">📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills at ALX.<br><br>🧰 Certificate of Completion  <br>Completed both the Django and Flutter tracks — including a capstone and active participation in a hackathon — organized by GDSC AASTU.<br><br>🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the AASTU TECH FEST 2025 Hackathon.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kid-yP&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kid-yP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
-</div>
-
-###
 <br clear="both">
 
 <div align="center">
