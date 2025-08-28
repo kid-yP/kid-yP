@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<h5 align="left">💻 Frontend: ReactJS (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Zustand ...<br><br>🧠 Backend: Django (Python), Laravel, PHP ... <br><br>🗄️ Database: MySQL, Firebase, MongoDB  ...<br><br>📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio  ...<br><br>🧰 Tools: VS Code, Figma, Git, Vite  ...</h5>
+<h5 align="left">💻 Frontend: ReactJS (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Zustand ...<br><br>🧠 Backend: Django (Python), Laravel, PHP, Blade ... <br><br>🗄️ Database: MySQL, Firebase, MongoDB  ...<br><br>📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio  ...<br><br>🧰 Tools: VS Code, Figma, Git, Vite  ...</h5>
 
 ###
 
