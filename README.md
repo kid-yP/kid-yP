@@ -11,7 +11,6 @@
 ###
 
 <h3 align="center">Pro Dev Front-End Engineer | Full-Stack Developer | UI/UX Designer<br><br>Front-end specialist with full-stack capabilities, building scalable and user-friendly applications across web and mobile platforms.</h3>
-<hr>
 
 ###
 
