@@ -101,6 +101,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vercel" height="44" alt="vercel logo"  />
+  <img width="15" />
 </div>
 
 ###
