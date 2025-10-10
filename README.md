@@ -31,20 +31,20 @@
 
 <br clear="both">
 
-<h3 align="left">
+<h4 align="left">
 💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand ...<br><br>
 🧠 Backend: Django (Python), Laravel (PHP), Blade templating ...<br><br>
 🗄️ Database: Firebase (Firestore), MySQL, Supabase ...<br><br>
 📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin) ...<br><br>
 🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
 🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
-</h3>
+</h4>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">💻 Languages and Tools:</h3>
+<h2 align="center">💻 Languages and Tools:</h2>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<h3 align="center">🌐 Socials:</h3>
+<h2 align="center">🌐 Socials:</h2>
 
 ###
 
@@ -124,7 +124,7 @@
 
 <br clear="both">
 
-<h3 align="center">🏆CERTIFICATION AND AWARDS</h3>
+<h2 align="center">🏆CERTIFICATION AND AWARDS</h2>
 
 ###
 
