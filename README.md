@@ -32,7 +32,7 @@
 <br clear="both">
 
 <h5 align="left">
-💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Zustand, Redux Toolkit ...<br><br>
+💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit ...<br><br>
 🧠 Backend: Django (Python), Laravel (PHP), Blade templating ...<br><br>
 🗄️ Database: Firebase (Firestore), MySQL, Supabase ...<br><br>
 📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin) ...<br><br>
