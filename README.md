@@ -108,13 +108,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kidus-yosef-139a32302/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
   </a>
-  <a href="kidusmekuria11@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <a href="mailto:kidusmekuria11@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
   </a>
-  <a href="@Butchu1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+  <a href="https://t.me/Butchu1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo" />
   </a>
 </div>
 
@@ -128,7 +128,7 @@
 
 <br clear="both">
 
-<p align="left">📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills at ALX.<br><br>🧰 Certificate of Completion  <br>Completed both the Django and Flutter tracks — including a capstone and active participation in a hackathon — organized by GDSC AASTU.<br><br>🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the AASTU TECH FEST 2025 Hackathon.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
+<p align="left">📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills — awarded the Pro Dev Certificate for excellence in front-end engineering at <strong>ALX</strong><br><br>🧰 Certificate of Completion  <br>Completed both the Django and Flutter tracks — including a capstone and active participation in a hackathon — organized by GDSC AASTU.<br><br>🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the AASTU TECH FEST 2025 Hackathon.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
 
 ###
 
