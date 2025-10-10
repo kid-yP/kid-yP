@@ -48,56 +48,58 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=cs" height="32" alt="csharp logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=django" height="32" alt="django logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="32" alt="laravel logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="vuejs logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="32" alt="graphql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" alt="firebase logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="32" alt="androidstudio logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="cplusplus logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=cs" height="44" alt="csharp logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=java" height="44" alt="java logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=django" height="44" alt="django logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=php" height="44" alt="php logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="laravel logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=css" height="44" alt="css logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=vue" height="44" alt="vuejs logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="tailwindcss logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" alt="bootstrap logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="44" alt="graphql logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=dart" height="44" alt="dart logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="44" alt="flutter logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="mysql logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="44" alt="androidstudio logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=figma" height="44" alt="figma logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="vscode logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
+  <img width="21" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="44" alt="vercel logo"  />
 </div>
 
 ###
