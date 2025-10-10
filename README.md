@@ -110,7 +110,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kidus-yosef-139a32302/" target="_blank">
+  <a href="https://www.linkedin.com/in/kidus-yosefM/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="42" alt="linkedin logo" />
   </a>
   <a href="mailto:kidusmekuria11@gmail.com" target="_blank">
