@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Software Developer | Web Developer | UI/UX Designer<br><br>Full-stack developer with experience in frontend, backend, and mobile development — focused on building scalable applications with intuitive user experiences.</h4>
+<h4 align="center">Pro Dev Front-End Engineer | Full-Stack Developer | UI/UX Designer<br><br>Full-stack developer with a professional focus on front-end engineering, backed by experience in backend and mobile development — passionate about building scalable applications with intuitive user experiences.</h4>
 
 
 ###
