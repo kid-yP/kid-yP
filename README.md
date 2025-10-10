@@ -1,4 +1,4 @@
-<h2 align="center">👋Hello, I'm Kidus Yosef</h2>
+<h1 align="center">👋Hello, I'm Kidus Yosef</h1>
 
 ###
 
@@ -31,14 +31,14 @@
 
 <br clear="both">
 
-<h5 align="left">
+<h3 align="left">
 💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand ...<br><br>
 🧠 Backend: Django (Python), Laravel (PHP), Blade templating ...<br><br>
 🗄️ Database: Firebase (Firestore), MySQL, Supabase ...<br><br>
 📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin) ...<br><br>
 🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
 🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
-</h5>
+</h3>
 
 ###
 
