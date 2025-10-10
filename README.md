@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Pro Dev Front-End Engineer | Full-Stack Developer | UI/UX Designer<br><br>Full-stack developer with a professional focus on front-end engineering, backed by experience in backend and mobile development — passionate about building scalable applications with intuitive user experiences.</h4>
+<h4 align="center">Pro Dev Front-End Engineer | Full-Stack Developer | UI/UX Designer<br><br>Front-end specialist with full-stack capabilities, building scalable and user-friendly applications across web and mobile platforms.</h4>
 
 
 ###
@@ -31,8 +31,14 @@
 
 <br clear="both">
 
-<h5 align="left">💻 Frontend: ReactJS (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Zustand ...<br><br>🧠 Backend: Django (Python), Laravel, PHP, Blade ... <br><br>🗄️ Database: MySQL, Firebase, MongoDB  ...<br><br>📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio  ...<br><br>🧰 Tools: VS Code, Figma, Git, Vite  ...</h5>
-
+<h5 align="left">
+💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Zustand, Redux Toolkit ...<br><br>
+🧠 Backend: Django (Python), Laravel (PHP), Blade templating ...<br><br>
+🗄️ Database: Firebase (Firestore), MySQL, Supabase ...<br><br>
+📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin) ...<br><br>
+🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
+🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
+</h5>
 ###
 
 <br clear="both">
