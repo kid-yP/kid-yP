@@ -11,7 +11,7 @@
 ###
 
 <h3 align="center">Pro Dev Front-End Engineer | Full-Stack Developer | UI/UX Designer<br><br>Front-end specialist with full-stack capabilities, building scalable and user-friendly applications across web and mobile platforms.</h3>
-
+<hr>
 
 ###
 
@@ -25,9 +25,9 @@
 
 <br clear="both">
 
-<hr>
-<h3 align="center">🌟 Skills & Technologies:</h3>
 
+<h3 align="center">🌟 Skills & Technologies:</h3>
+<hr>
 ###
 
 <br clear="both">
@@ -40,7 +40,6 @@
 🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
 🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
 </h4>
-<hr>
 
 ###
 
@@ -135,6 +134,8 @@
 <p align="left">📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills — awarded the Pro Dev Certificate for excellence in front-end engineering at <strong>ALX</strong><br><br>🧰 Certificate of Completion  <br>Completed both the Django and Flutter tracks — including a capstone and active participation in a hackathon — organized by <strong>GDSC AASTU</strong>.<br><br>🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by <strong>Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University</strong>.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the <strong>AASTU TECH FEST 2025 Hackathon</strong>.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
 
 ###
+
+<hr>
 
 <br clear="both">
 
