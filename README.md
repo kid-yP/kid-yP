@@ -25,6 +25,7 @@
 
 <br clear="both">
 
+<hr>
 <h3 align="center">🌟 Skills & Technologies:</h3>
 
 ###
@@ -39,6 +40,7 @@
 🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
 🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
 </h4>
+<hr>
 
 ###
 
