@@ -64,6 +64,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="44" alt="express logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
