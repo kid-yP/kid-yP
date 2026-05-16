@@ -10,7 +10,10 @@
 
 ###
 
-<h3 align="center">Full-Stack Developer | Pro Dev Front-End Engineer | UI/UX Designer<br><br>Front-end specialist with full-stack capabilities, building scalable and user-friendly applications across web and mobile platforms.</h3>
+<h3 align="center">
+Full-Stack MERN & Cross-Platform Developer | Pro Dev Front-End Engineer | UI/UX Designer<br><br>
+Specialist in modern front-end frameworks with strong full-stack capabilities (Node.js/Express, Django, Laravel), building scalable, user-friendly applications across web and mobile platforms.
+</h3>
 
 ###
 
@@ -135,7 +138,9 @@
 
 <br clear="both">
 
-<p align="left">📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills — awarded the Pro Dev Certificate for excellence in front-end engineering at <strong>ALX</strong><br><br>🧰 Certificate of Completion  <br>Completed both the Django and Flutter tracks — including a capstone and active participation in a hackathon — organized by <strong>GDSC AASTU</strong>.<br><br>🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by <strong>Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University</strong>.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the <strong>AASTU TECH FEST 2025 Hackathon</strong>.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
+<p align="left">📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills — awarded the Pro Dev Certificate for excellence in front-end engineering at <strong>ALX</strong><br><br>🧰 Certificate of Completion  <br> Completed the Django, Flutter, and Node.js/Express tracks — including a capstone project and active participation in a hackathon — organized by <strong>GDSC AASTU</strong>.<br><br>
+Ranked among the Top 5 projects in the hackathon and recognized for active involvement throughout the event. Also participated in the AASTU TECH FEST 2025 Hackathon, contributing to collaborative and innovative development efforts.
+🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by <strong>Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University</strong>.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the <strong>AASTU TECH FEST 2025 Hackathon</strong>.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
 
 ###
 
