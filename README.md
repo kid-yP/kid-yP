@@ -11,7 +11,7 @@
 ###
 
 <h3 align="center">
-Full-Stack MERN & Cross-Platform Developer | Pro Dev Front-End Engineer | UI/UX Designer<br><br>
+Full-Stack MERN & Cross-Platform Developer | Pro Dev Front-End Engineer | Mobile App Developer<br><br>
 Specialist in modern front-end frameworks with strong full-stack capabilities (Node.js/Express, Django, Laravel), building scalable, user-friendly applications across web and mobile platforms.
 </h3>
 
