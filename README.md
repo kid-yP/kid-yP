@@ -41,7 +41,7 @@ Specialist in modern front-end frameworks with strong full-stack capabilities (N
 🗄️ Database: Firebase (Firestore), MySQL, Supabase ...<br><br>
 📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin) ...<br><br>
 🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
-🧩 Data Structures & Algorithms Expertise: Trained at <b>A2SV (Africa to Silicon Valley)</b>, with strong problem‑solving skills in Dynamic Programming, Graph Algorithms, Greedy Techniques, and advanced data structures (Heaps, Tries, Segment Trees, Union‑Find... ).<br><br>
+🧩 Data Structures & Algorithms Expertise: Trained at <b>A2SV (Africa to Silicon Valley)</b>, with strong problem‑solving skills in Dynamic Programming,                                                Graph Algorithms, Greedy Techniques, and advanced data structures (Heaps, Tries, Segment Trees, Union‑Find... )<br><br>
 🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
 </h4>
 
