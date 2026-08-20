@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello, I'm Kidus Yosef</h1>  
+<h1 align="center">Hello — I'm Kidus Yosef</h1>  
 
 ###
 
@@ -11,9 +11,16 @@
 ###
 
 <h3 align="center">
-Full-Stack MERN & Cross-Platform Developer | Pro Dev Front-End Engineer | Mobile App Developer<br><br>
-Specialist in modern front-end frameworks with strong full-stack capabilities (Node.js/Express, Django, Laravel), building scalable, user-friendly applications across web and mobile platforms.
+Full-Stack Engineer (Node.js / Next.js) • Real-time & Backend Systems Specialist • Mobile & Frontend Expert
 </h3>
+
+<p align="center">
+I build production-ready web and mobile applications — transactional backends, real-time systems, and polished frontends. Currently demonstrated with Fulfilio, a multi-tenant, real-time fulfillment platform (Node, Postgres, Redis, Socket.IO, Stripe). <a href="https://github.com/kid-yP/Fulfilio">View Fulfilio repo</a> • <a href="https://fulfilio-omega.vercel.app">Live demo</a>
+</p>
+
+<p align="center">
+Available for freelance/contract work and open to backend or full-stack roles. Contact: kidusmekuria11@gmail.com
+</p>
 
 ###
 
@@ -27,31 +34,27 @@ Specialist in modern front-end frameworks with strong full-stack capabilities (N
 
 <br clear="both">
 
-
-<h3 align="center">🌟 Skills & Technologies:</h3>
+<h3 align="center">Skills & Technologies:</h3>
 <hr>
-
-###
 
 <br clear="both">
 
 <h4 align="left">
-💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand ...<br><br>
-🧠 Backend: Django (Python), Laravel (PHP), Blade templating, Node.js (JavaScript), Express.js ...<br><br>
-🗄️ Database: Firebase (Firestore), MySQL, Supabase ...<br><br>
-📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin) ...<br><br>
-🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
-🧩 Data Structures & Algorithms Expertise: Trained at <b>A2SV (Africa to Silicon Valley)</b>, with strong problem-solving skills in Dynamic Programming, Graph Algorithms, Greedy Techniques, and advanced data structures (Heaps, Tries, Segment Trees, Union-Find... )<br><br>
-🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
+Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand, Shadcn UI, Framer Motion.<br><br>
+Backend: Node.js (TypeScript), Express.js, Prisma ORM, Django (Python), Laravel (PHP), NestJS (familiarity). Built production-grade services with transactional Postgres and background workers (BullMQ).<br><br>
+Database & Storage: PostgreSQL, Redis, Firebase (Firestore), MySQL, Supabase, Cloudinary (file uploads), Pinecone (vector DB for RAG).<br><br>
+Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin).<br><br>
+API Integration & AI: RESTful APIs, GraphQL, Axios, Fetch, Postman, Stripe (Checkout + webhooks), OpenAI API, Anthropic Claude (optional), Cohere (embeddings).<br><br>
+System & DevOps: Docker, Docker Compose, Render (blueprint), Vercel, Cloudflare Tunnel, GitHub Actions (CI), health checks, monitoring basics, Redis adapter for Socket.IO (scaling).<br><br>
+Testing & Tools: Jest, Supertest (integration tests with real Postgres), ESLint, TypeScript type checks, Prisma migrations & seed, bull-board for queue visibility.<br><br>
+Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel, Render, Stripe Dashboard, Resend (email provider), Cloudflare Tunnel.
 </h4>
-
-###
 
 <br clear="both">
 
-<h2 align="center">💻 Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="cplusplus logo"  />
@@ -118,7 +121,11 @@ Specialist in modern front-end frameworks with strong full-stack capabilities (N
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stripe" height="44" alt="stripe logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="44" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="44" alt="github actions logo"  />
 </div>
 
 ###
@@ -139,18 +146,16 @@ Specialist in modern front-end frameworks with strong full-stack capabilities (N
 
 ###
 
-
 <br clear="both">
 
-<h2 align="center">🏆CERTIFICATION AND AWARDS</h2>
+<h2 align="center">Certifications and Coursework</h2>
 
-###
-
-<br clear="both">
-
-<p align="left">📜 Certificate of Completion  <br>Successfully completed the Front-End Development track, including UI/UX Design and Professional Development Skills — awarded the Pro Dev Certificate for excellence in front-end engineering at <strong>ALX</strong><br><br>🧰 Certificate of Completion  <br> Completed the Django, Flutter, and Node.js/Express tracks — including a capstone project and active participation in a hackathon — organized by <strong>GDSC AASTU</strong>.<br><br>🏆 Certificate of Achievement  <br>Ranked among the Top 5 projects in the hackathon organized by <strong>Google Developer Student Club (GDSC) at Addis Ababa Science and Technology University</strong>.<br><br>🤝 Certificate of Participation  <br>Recognized for active involvement in the GDSC AASTU Hackathon event.<br><br>🎉 Certificate of Participation  <br>Participated in the <strong>AASTU TECH FEST 2025 Hackathon</strong>.<br><br>🐍 Certificate of Completion  <br>Earned a Python certification from HackerRank, validating core programming skills.</p>
-
-###
+<p align="left">
+DataCamp — Associate AI Engineer for Developers (coursework completed): LLM fundamentals, prompt engineering, OpenAI API usage, embeddings, semantic search, building chatbots and production AI patterns.<br><br>
+ALX — Data Science program (in progress): data literacy, Python for data, supervised & unsupervised learning fundamentals (planning & exploration).<br><br>
+ALX — Pro Dev Front-End Certificate: frontend engineering, UI/UX, and professional development skills.<br><br>
+Additional certifications: Django, Flutter, Node.js/Express coursework through GDSC AASTU; Python certification from HackerRank.
+</p>
 
 <hr>
 
