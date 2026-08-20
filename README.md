@@ -148,19 +148,6 @@ Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel, Render, Stripe Dashb
 
 <br clear="both">
 
-<h2 align="center">Certifications and Coursework</h2>
-
-<p align="left">
-DataCamp — Associate AI Engineer for Developers (coursework completed): LLM fundamentals, prompt engineering, OpenAI API usage, embeddings, semantic search, building chatbots and production AI patterns.<br><br>
-ALX — Data Science program (in progress): data literacy, Python for data, supervised & unsupervised learning fundamentals (planning & exploration).<br><br>
-ALX — Pro Dev Front-End Certificate: frontend engineering, UI/UX, and professional development skills.<br><br>
-Additional certifications: Django, Flutter, Node.js/Express coursework through GDSC AASTU; Python certification from HackerRank.
-</p>
-
-<hr>
-
-<br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kid-yP&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kid-yP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
