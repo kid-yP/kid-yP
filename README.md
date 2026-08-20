@@ -36,13 +36,14 @@ Specialist in modern front-end frameworks with strong full-stack capabilities (N
 <br clear="both">
 
 <h4 align="left">
-💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand ...<br><br>
-🧠 Backend: Django (Python), Laravel (PHP), Blade templating, Node.js (JavaScript), Express.js ...<br><br>
-🗄️ Database: Firebase (Firestore), MySQL, Supabase ...<br><br>
-📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin) ...<br><br>
-🔗 API Integration: RESTful APIs, GraphQL, Axios, Fetch, Postman, Deezer API, Google Maps API, OpenAI API ...<br><br>
-🧩 Data Structures & Algorithms Expertise: Trained at <b>A2SV (Africa to Silicon Valley)</b>, with strong problem‑solving skills in Dynamic Programming,                                                Graph Algorithms, Greedy Techniques, and advanced data structures (Heaps, Tries, Segment Trees, Union‑Find... )<br><br>
-🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel ...
+💻 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand, Shadcn UI, Framer Motion<br><br>
+🧠 Backend: Node.js (TypeScript), Express.js, Prisma ORM, Django (Python), Laravel (PHP), Blade templating, NestJS (familiarity) — built production-grade services with transactional Postgres and background workers (BullMQ).<br><br>
+🗄️ Database & Storage: PostgreSQL, Redis, Firebase (Firestore), MySQL, Supabase, Cloudinary (file uploads), Pinecone (vector DB for RAG).<br><br>
+📱 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin).<br><br>
+🔗 API Integration & AI: RESTful APIs, GraphQL, Axios, Fetch, Postman, Stripe (Checkout + webhooks), OpenAI API, Anthropic Claude (optional), Cohere (embeddings).<br><br>
+🧩 System & DevOps: Docker, Docker Compose, Render (blueprint), Vercel, Cloudflare Tunnel, GitHub Actions (CI), health checks, monitoring basics, Redis adapter for Socket.IO (scaling).<br><br>
+🔬 Testing & Tools: Jest, Supertest (integration tests with real Postgres), ESLint, TypeScript type checks, Prisma Migrations & seed, bull-board for queue visibility.<br><br>
+🧰 Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel, Render, Stripe Dashboard, Resend (email provider), Cloudflare Tunnel.
 </h4>
 
 ###
@@ -109,6 +110,20 @@ Specialist in modern front-end frameworks with strong full-stack capabilities (N
   <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="44" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="44" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="44" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stripe" height="44" alt="stripe logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="44" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="44" alt="github actions logo"  />
 </div>
 
 ###
