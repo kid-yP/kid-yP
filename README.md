@@ -1,4 +1,4 @@
-<h1 align="center">Hello — I'm Kidus Yosef</h1>  
+<h1 align="center">Hello, I'm Kidus Yosef</h1>  
 
 ###
 
@@ -15,7 +15,7 @@ Full-Stack Engineer (Node.js / Next.js) • Real-time & Backend Systems Speciali
 </h3>
 
 <p align="center">
-I build production-ready web and mobile applications — transactional backends, real-time systems, and polished frontends. Currently demonstrated with Fulfilio, a multi-tenant, real-time fulfillment platform (Node, Postgres, Redis, Socket.IO, Stripe). <a href="https://github.com/kid-yP/Fulfilio">View Fulfilio repo</a> • <a href="https://fulfilio-omega.vercel.app">Live demo</a>
+I design and build production-grade web and mobile applications with a focus on reliability, scalability, and polished user experience. I take a backend-first approach—creating transactional systems (PostgreSQL, Redis), robust APIs (Node/Express, Prisma), background processing and secure payment flows—then pair them with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). My work emphasizes real-time collaboration, automated testing, CI/CD, and practical AI/ML integrations (LLMs, embeddings) only where they deliver measurable value. I collaborate closely with product teams to turn requirements into maintainable systems and am available for freelance or full-time opportunities; reach me at kidusmekuria11@gmail.com.
 </p>
 
 <p align="center">
