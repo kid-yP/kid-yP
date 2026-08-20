@@ -15,7 +15,8 @@ Full-Stack Engineer (Node.js / Next.js) • Real-time & Backend Systems Speciali
 </h3>
 
 <p align="center">
-I design and build production-grade web and mobile applications with a focus on reliability, scalability, and polished user experience. I take a backend-first approach—creating transactional systems (PostgreSQL, Redis), robust APIs (Node/Express, Prisma), background processing and secure payment flows—then pair them with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). My work emphasizes real-time collaboration, automated testing, CI/CD, and practical AI/ML integrations (LLMs, embeddings) only where they deliver measurable value. I collaborate closely with product teams to turn requirements into maintainable systems and am available for freelance or full-time opportunities; reach me at kidusmekuria11@gmail.com.
+I design and build production-grade web and mobile applications with a backend-first approach — transactional databases (Postgres, Redis), robust APIs (Node/Express, Prisma), background jobs and secure payment flows — paired with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). I prioritize real-time features, automated tests, CI/CD, and practical AI integrations that deliver real value.
+
 </p>
 
 <p align="center">
