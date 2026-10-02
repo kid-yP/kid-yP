@@ -29,7 +29,7 @@ Available for freelance/contract work and open to backend or full-stack roles. C
 <h3 align="center">Problem Solving</h3>
 
 <p align="center">
-700+ problems solved: <a href="https://leetcode.com/u/kid-yp/" target="_blank">LeetCode</a> (500+) and <a href="https://codeforces.com/profile/KidYos11" target="_blank">Codeforces</a> (190+). Weekly contests at A2SV. Top 3 (Django) and Top 5 (Flutter) hackathon projects at GDG AASTU.
+700+ problems solved: <a href="https://leetcode.com/u/kid-yp/" target="_blank">LeetCode</a> (500+) and <a href="https://codeforces.com/profile/KidYos11" target="_blank">Codeforces</a> (190+). Weekly contests at A2SV.
 </p>
 
 ###
