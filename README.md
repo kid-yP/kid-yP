@@ -15,7 +15,7 @@ Full-Stack Engineer (Node.js / Next.js) • Real-time & Backend Systems Speciali
 </h3>
 
 <p align="center">
-I design and build production-grade web and mobile applications with a backend-first approach — transactional databases (Postgres, Redis), robust APIs (Node/Express, Prisma), background jobs and secure payment flows — paired with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). I prioritize real-time features, automated tests, CI/CD, and practical AI integrations that deliver real value.
+I design and build production-style web and mobile applications with a backend-first approach — transactional databases (Postgres, Redis), robust APIs (Node/Express, Prisma), background jobs and secure payment flows — paired with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). I prioritize real-time features, automated tests, CI/CD, and practical AI integrations that deliver real value.
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Available for freelance/contract work and open to backend or full-stack roles. C
 <h3 align="center">Problem Solving</h3>
 
 <p align="center">
-700+ problems solved: <a href="https://leetcode.com/u/kid-yp/" target="_blank">LeetCode</a> (500+) and <a href="https://codeforces.com/profile/KidYos11" target="_blank">Codeforces</a> (190+). Weekly contests at A2SV.
+700+ problems solved: <a href="https://leetcode.com/u/kid-yp/">LeetCode (500+)</a> and <a href="https://codeforces.com/profile/KidYos11">Codeforces (190+)</a>. Weekly contests at A2SV. Top 3 (Django) and Top 5 (Flutter) hackathon placements at GDG AASTU.
 </p>
 
 ###
@@ -51,13 +51,13 @@ Available for freelance/contract work and open to backend or full-stack roles. C
 
 <h4 align="left">
 Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand, Shadcn UI, Framer Motion.<br><br>
-Backend: Node.js (TypeScript), Express.js, Prisma ORM, Django (Python), Laravel (PHP), NestJS (familiarity). Built production-grade services with transactional Postgres and background workers (BullMQ).<br><br>
-Database & Storage: PostgreSQL, Redis, Firebase (Firestore), MySQL, Supabase, Cloudinary (file uploads), Pinecone (vector DB for RAG).<br><br>
+Backend: Node.js (TypeScript), Express.js, Prisma ORM, Django (Python), Laravel (PHP), NestJS (familiarity). Built production-style services with transactional Postgres and background workers (BullMQ).<br><br>
+Database & Storage: PostgreSQL, Redis, Firebase (Firestore), MySQL, Supabase, Pinecone (vector DB for RAG).<br><br>
 Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin).<br><br>
-API Integration & AI: RESTful APIs, GraphQL, Axios, Fetch, Postman, Stripe (Checkout + webhooks), OpenAI API, Anthropic Claude (optional), Cohere (embeddings).<br><br>
+API Integration & AI: RESTful APIs, GraphQL, Axios, Fetch, Postman, Stripe (Checkout + webhooks), OpenAI API, Cohere (embeddings).<br><br>
 System & DevOps: Docker, Docker Compose, Render (blueprint), Vercel, Cloudflare Tunnel, GitHub Actions (CI), health checks, monitoring basics, Redis adapter for Socket.IO (scaling).<br><br>
-Testing & Tools: Jest, Supertest (integration tests with real Postgres), ESLint, TypeScript type checks, Prisma migrations & seed, bull-board for queue visibility.<br><br>
-Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel, Render, Stripe Dashboard, Resend (email provider), Cloudflare Tunnel.
+Testing & Tools: Jest, Supertest (integration tests with real Postgres), ESLint, TypeScript checks, Prisma migrations & seed, bull-board for queue visibility.<br><br>
+Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel, Render, Stripe Dashboard, Resend (email provider).
 </h4>
 
 <br clear="both">
@@ -143,7 +143,7 @@ Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel, Render, Stripe Dashb
 <h2 align="center">Socials</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kidus-yosefM/" target="_blank">
+  <a href="https://www.linkedin.com/in/kidus-yosefm/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="42" alt="linkedin logo" />
   </a>
   <a href="mailto:kidusmekuria11@gmail.com" target="_blank">
