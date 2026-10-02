@@ -15,11 +15,21 @@ Full-Stack Engineer (Node.js / Next.js) • Real-time & Backend Systems Speciali
 </h3>
 
 <p align="center">
-I design and build production-grade web and mobile applications with a backend-first approach — transactional databases (Postgres, Redis), robust APIs (Node/Express, Prisma), background jobs and reliable payment flows — paired with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). I prioritise correctness under concurrency, automated tests, CI/CD, observability, and practical AI integrations that deliver real value.
+I design and build production-grade web and mobile applications with a backend-first approach — transactional databases (Postgres, Redis), robust APIs (Node/Express, Prisma), background jobs and secure payment flows — paired with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). I prioritize real-time features, automated tests, CI/CD, and practical AI integrations that deliver real value.
 </p>
 
 <p align="center">
-Contact: <a href="mailto:kidusmekuria11@gmail.com">kidusmekuria11@gmail.com</a> · <a href="https://github.com/kid-yP">github.com/kid-yP</a> · <a href="https://www.linkedin.com/in/kidus-yosefm">linkedin.com/in/kidus-yosefm</a>
+Available for freelance/contract work and open to backend or full-stack roles. Contact: kidusmekuria11@gmail.com
+</p>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Problem Solving</h3>
+
+<p align="center">
+700+ problems solved: <a href="https://leetcode.com/u/kid-yp/" target="_blank">LeetCode</a> (500+) and <a href="https://codeforces.com/profile/KidYos11" target="_blank">Codeforces</a> (190+). Weekly contests at A2SV. Top 3 (Django) and Top 5 (Flutter) hackathon projects at GDG AASTU.
 </p>
 
 ###
@@ -34,19 +44,20 @@ Contact: <a href="mailto:kidusmekuria11@gmail.com">kidusmekuria11@gmail.com</a> 
 
 <br clear="both">
 
-<h3 align="center">Skills & Technologies</h3>
+<h3 align="center">Skills & Technologies:</h3>
 <hr>
 
 <br clear="both">
 
 <h4 align="left">
-Frontend: Next.js, React, TypeScript, Vue.js, Tailwind CSS, Shadcn UI, Framer Motion, Redux Toolkit, Zustand.<br><br>
-Backend: Node.js (TypeScript), Express, Prisma ORM, Django (Python). Built transactional services backed by Postgres and background workers (BullMQ).<br><br>
-Data & Storage: PostgreSQL, Redis, Firebase (Firestore), MySQL, Pinecone (vector DB for RAG).<br><br>
-Mobile: React Native (Expo), Flutter (Dart).<br><br>
-AI & Integrations: RAG pipelines, Cohere embeddings, Pinecone, LangChain, Stripe (Checkout + webhooks), REST APIs, Postman.<br><br>
-DevOps & Tools: Docker, GitHub Actions (CI), Vercel, Render, Prisma migrations, monitoring & health checks basics.<br><br>
-Testing: Jest, Supertest, integration tests with real Postgres, custom concurrency harnesses.
+Frontend: Next.js, TypeScript, React.js (HTML, CSS, JavaScript), Vue.js, Tailwind CSS, Redux Toolkit, Zustand, Shadcn UI, Framer Motion.<br><br>
+Backend: Node.js (TypeScript), Express.js, Prisma ORM, Django (Python), Laravel (PHP), NestJS (familiarity). Built production-grade services with transactional Postgres and background workers (BullMQ).<br><br>
+Database & Storage: PostgreSQL, Redis, Firebase (Firestore), MySQL, Supabase, Cloudinary (file uploads), Pinecone (vector DB for RAG).<br><br>
+Mobile Development: React Native (Expo), Flutter (Dart), Android Studio (Java/Kotlin).<br><br>
+API Integration & AI: RESTful APIs, GraphQL, Axios, Fetch, Postman, Stripe (Checkout + webhooks), OpenAI API, Anthropic Claude (optional), Cohere (embeddings).<br><br>
+System & DevOps: Docker, Docker Compose, Render (blueprint), Vercel, Cloudflare Tunnel, GitHub Actions (CI), health checks, monitoring basics, Redis adapter for Socket.IO (scaling).<br><br>
+Testing & Tools: Jest, Supertest (integration tests with real Postgres), ESLint, TypeScript type checks, Prisma migrations & seed, bull-board for queue visibility.<br><br>
+Tools: VS Code, Figma, Git & GitHub, Vite, Postman, Vercel, Render, Stripe Dashboard, Resend (email provider), Cloudflare Tunnel.
 </h4>
 
 <br clear="both">
@@ -58,9 +69,17 @@ Testing: Jest, Supertest, integration tests with real Postgres, custom concurren
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="44" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="44" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="44" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="44" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="nodejs logo" />
   <img width="12" />
@@ -68,11 +87,41 @@ Testing: Jest, Supertest, integration tests with real Postgres, custom concurren
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="44" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="44" alt="vuejs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="44" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="44" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="44" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="44" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="44" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="44" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="postgres logo"  />
   <img width="12" />
@@ -81,6 +130,8 @@ Testing: Jest, Supertest, integration tests with real Postgres, custom concurren
   <img src="https://skillicons.dev/icons?i=redis" height="44" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stripe" height="44" alt="stripe logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="44" alt="jest logo"  />
   <img width="12" />
@@ -92,7 +143,7 @@ Testing: Jest, Supertest, integration tests with real Postgres, custom concurren
 <h2 align="center">Socials</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kidus-yosefm/" target="_blank">
+  <a href="https://www.linkedin.com/in/kidus-yosefM/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="42" alt="linkedin logo" />
   </a>
   <a href="mailto:kidusmekuria11@gmail.com" target="_blank">
