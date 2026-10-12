@@ -15,7 +15,7 @@ Full-Stack Engineer (Node.js / Next.js) • Real-time & Backend Systems Speciali
 </h3>
 
 <p align="center">
-I design and build production-style web and mobile applications with a backend-first approach — transactional databases (Postgres, Redis), robust APIs (Node/Express, Prisma), background jobs and secure payment flows — paired with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). I prioritize real-time features, automated tests, CI/CD, and practical AI integrations that deliver real value.
+I design and build production-style web and mobile applications with a backend-first approach: transactional databases (Postgres, Redis), robust APIs (Node/Express, Prisma), background jobs and secure payment flows paired with modern frontends (Next.js, TypeScript, Tailwind) and cross-platform mobile apps (React Native, Flutter). I prioritize real-time features, automated tests, CI/CD, and practical AI integrations that deliver real value.
 </p>
 
 <p align="center">
