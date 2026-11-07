@@ -11,7 +11,7 @@
 ###
 
 <h3 align="center">
-Full-Stack Engineer (Node.js / Next.js) • Real-time & Backend Systems Specialist • Mobile & Frontend Expert
+Full-Stack Web & Mobile Engineer · TypeScript, Next.js, Node.js, React Native · Real-time systems & AI features
 </h3>
 
 <p align="center">
